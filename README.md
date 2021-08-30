@@ -1,6 +1,6 @@
 # Lang Learn MVP
 
-Learn your target language through immersion.
+A Duolingo type app, that teaches through individual lessons, with flashcards, and tips for an added learning experince.
 
 # App Functionality
 
