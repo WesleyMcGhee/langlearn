@@ -7,8 +7,8 @@ Learn your target language through immersion.
 * App will allow users to create a new account
 * App will allow users to Login to account
 * App will store user information
-*   Current Lesson
-*   Language Learning
+  *   Current Lesson
+  *   Language Learning
 * App will allow users to complete and redo lessons
 * App will allow users to read through Tips on lesson content
 * App will allow users to Reveiw Flash cards on lesson content
